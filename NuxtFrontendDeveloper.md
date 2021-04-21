@@ -10,19 +10,19 @@ portal Web.
 
 ## ¿Que experiencia necesitamos?
 
-[x] Nuxt
+:white_check_mark: Nuxt, Vue, Vuex
 
-[x] Vuex
+:white_check_mark: HTML5 y CSS3
 
-[x] HTML5 y CSS3
+:white_check_mark: API
 
-[x] API
+:white_check_mark: GIT
 
-[x] GIT
+:white_check_mark: Buenas prácticas, código limpio
 
-[x] Buenas prácticas, código limpio
+☑️ Test
 
-[-] Test
+
 
 ## ¿Que ofrecemos?
 
