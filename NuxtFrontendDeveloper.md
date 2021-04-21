@@ -3,9 +3,9 @@
 ¡Hola!
 
 Estamos buscando un desarrollador Frontend con experiencia en Nuxt y API,
-para el desarrollo de un portal B2B.
+para el desarrollo de un nuevo portal.
 
-Nosotros ya tenemos la API y el diseño, pero necesitamos a alguien que desarrolle el
+Tenemos la API y el diseño, y buscamos un desarrollador Frontend para el
 portal Web.
 
 ## ¿Que experiencia necesitamos?
@@ -26,8 +26,7 @@ portal Web.
 
 ## ¿Que ofrecemos?
 
-Puedes trabajar con nosotros como freelance o en nomina.
-Trabajar 100% remoto o en nuestras oficinas en La Nucia - Alicante
+Somos un equipo en crecimiento, muy comprometido en completar con éxito los proyectos. Puedes trabajar con nosotros como freelance.
 
 ## ¿ Te interesa?
 
